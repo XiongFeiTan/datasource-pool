@@ -11,4 +11,3 @@ jdk:1.8
 redis-client:2.9.x
 hbase:1.2.0
 mysql:5.1.38
- 
